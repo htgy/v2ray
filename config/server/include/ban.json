@@ -26,5 +26,5 @@
 					"domain:ninecommentaries.com",
 					"domain:shenyun.com"
 				],
-				"outboundTag": "blocked"
+				"outboundTag": "direct"
 			}
